@@ -5,6 +5,12 @@ use yii\db\Migration;
 /**
  * Handles the creation of table `post`.
  */
+/*
+ * Created on Thu Feb 22 2018
+ * By Heru Arief Wijaya
+ * Copyright (c) 2018 belajararief.com
+ */
+
 class m180221_085153_create_post_table extends Migration
 {
     /**
