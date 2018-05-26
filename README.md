@@ -39,7 +39,7 @@ return [
 If you use your own db, then run migration to create table in selected database.
 
 ```bash
-php yii migrate
+vendor/bin/yii migrate/up --appconfig=config.php
 ```
 
 ## Creator
